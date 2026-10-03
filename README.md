@@ -1,5 +1,7 @@
 # Claude-Grade Frontend Design Vault for Gemini
 
+![Repository Showcase Architecture](https://github.com/Vasiliy-katsyka/gemini-frontend-design/blob/main/assets/showcase.png?raw=true)
+
 > **Transform Google Gemini into a world-class Frontend Engineer and UI/UX Architect.**  
 > Inject Anthropic’s official `frontend-design` aesthetic engine + 70+ production-grade design systems and editorial references directly into Gemini's context window.
 
